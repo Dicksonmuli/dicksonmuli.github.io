@@ -1,0 +1,80 @@
+/*
+    Document   : style
+    Created on : Feb 10, 2017, 12:57:57 PM
+    Author     : Dickson
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root {
+    display: block;
+}
+body{
+    background: black;
+    margin: 0;
+    padding: 0;
+    font-family: "Arial";
+}
+#wrapper{
+    width: 90%;
+    height: auto;
+    background: white;
+    border-left: 5px solid black;
+    overflow: auto;
+    margin: 30px 20px 20px 30px;
+    padding: 10px;
+}
+#header{
+    width: 100%;
+    height: 75px;
+    border-bottom: 2px solid black;
+}
+#logo{
+    float: left;
+    margin: 15px 0px 0px 50px
+}
+#social{
+    float: right;
+    margin: 15px 25px 0px 0px;
+}
+#social ul li{
+    float: left;
+    list-style: none;
+    padding-right: 7px;
+}
+#social img{
+    height: 45px;
+    width: 45px;
+}
+#sidebar{
+    width: 200px;
+    height: 100%;
+}
+menu ul{
+    float: left;
+    height: auto;
+}
+menu li{
+    list-style: none;
+    padding: 3px;
+    text-align: left;
+}
+h1{
+    text-align: center;
+    padding: 3px;
+    border-bottom: 1px solid #7c7063;
+}
+p{
+    text-indent: 40px;
+    line-height: 25px;
+    text-align: justify;
+}
+img{
+    float: right;
+    padding: 0px 0px 5px 5px;
+    width: 100px;
+    height: 100px;
+}
+.footer{
+    background: peru;
+}
