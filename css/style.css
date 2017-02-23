@@ -96,6 +96,9 @@ a,a:hover{
     height: 45px;
     width: 45px;
 }
+#social a{
+  border: none;
+}
 .menubar{
     width: 900px;
     height: 50px;
@@ -188,11 +191,11 @@ p{
     line-height: 25px;
     text-align: justify;
 }
-img{
+#main-content img{
     float: right;
     padding: 0px 0px 5px 5px;
-    width: 100px;
-    height: 100px;
+    width: 140px;
+    height: 150px;
 }
 .footer{
     background: peru;
