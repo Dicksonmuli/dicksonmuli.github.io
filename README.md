@@ -11,7 +11,7 @@ Personal Portfolio
 
 [coderwall](https://coderwall.com/dicksonmuli)
 
-[Linkedin](https://uk.linkedin.com/in/xiaoying)
+[Linkedin](https://www.linkedin.com/in/isaiah-dickson-85033813a/)
 
 
 ## Features and Technologies
