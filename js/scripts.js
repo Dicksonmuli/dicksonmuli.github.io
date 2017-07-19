@@ -31,7 +31,8 @@
           $('body').addClass('loaded');
         });
 
-
+        // portfolio image
+        $('.portfolio-img').css('background-color', 'none');
 
        /* Smooth Scroll */
 
@@ -98,7 +99,7 @@
 
         $(window).load(function(){
         $(".typing").typed({
-            strings: ["I am an Android Developer.", "I Create Android and Web Apps."],
+            strings: ["I am an Android Developer.", "I Create Android and Web Apps.", "I Live in Nairobi."],
             typeSpeed: 50
           });
          });
