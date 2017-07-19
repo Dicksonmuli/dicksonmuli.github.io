@@ -564,6 +564,10 @@ body.loaded #preloader{
 
 
 /* About Me */
+.prof-picture {
+	padding-left: 20px;
+	padding-top: 20px;
+}
 
 .about-section {
 	overflow: hidden;
@@ -615,6 +619,10 @@ body.loaded #preloader{
 			margin-left: 2em;
 			margin-top: 3em;
 			padding: 0;
+		}
+
+		.features p {
+			font-size: 13px;
 		}
 
 			.features li:nth-child(1), .features li:nth-child(2), .features li:nth-child(3) {
